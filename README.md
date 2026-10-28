@@ -6,3 +6,7 @@
 #### pull 연습중branch 연습중(나 board야)
 
 test
+
+
+
+강사가 수정함!
